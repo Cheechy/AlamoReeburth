@@ -87,6 +87,7 @@ if classIndex == 11 then
 
 	if isVanilla then
 		DruidForms.Aquatic = 1066
+		DruidForms.DireBear = 9634
 	end
 
 	local BalanceAffinityMoonkin = 197625
